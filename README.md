@@ -13,6 +13,7 @@
 
 - **Elmna (Laravel)** — منصة تعليمية: https://elmna-laravel.onrender.com/
 - **كورس بايثون بالعربي**: https://rebrand.ly/python-course-ar
+- **مقالي**: كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96%: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
 
 ---
 
@@ -29,3 +30,4 @@
 
 - **Elmna (Laravel)** — Educational platform: https://elmna-laravel.onrender.com/
 - **Python Course (Arabic)**: https://rebrand.ly/python-course-ar
+- **Article**: I Taught a Computer to Spot Fake Websites with 96% Accuracy: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
