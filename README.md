@@ -10,7 +10,7 @@
 - 📖 مؤسس منصتي "علمني" (ELMNI) و"علمنا" (ELMNA)
 
 ### 🔗 مشاريعي
-
+- **صحتي (Sehhati)** — تطبيق مجاني يكشف برومات البوتاسيوم في الخبز والدقيق: https://sehhati-sd.netlify.app
 - **Elmna (Laravel)** — منصة تعليمية: https://elmna-laravel.onrender.com/
 - **كورس بايثون بالعربي**: https://rebrand.ly/python-course-ar
 - **مقالي**: كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96 بالمئة: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
@@ -29,6 +29,7 @@
 
 ### 🔗 My Projects
 
+- **Sehhati** — Free app to check bread and flour for potassium bromate (E924): https://sehhati-sd.netlify.app
 - **Elmna (Laravel)** — Educational platform: https://elmna-laravel.onrender.com/
 - **Python Course (Arabic)**: https://rebrand.ly/python-course-ar
 - **Article**: I Taught a Computer to Spot Fake Websites with 96% Accuracy: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
