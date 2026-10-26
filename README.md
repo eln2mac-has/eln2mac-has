@@ -12,6 +12,7 @@
 ### 🔗 مشاريعي
 - **صحتي (Sehhati)** — تطبيق مجاني يكشف برومات البوتاسيوم في الخبز والدقيق: https://sehhati-sd.netlify.app
 - **Elmna (Laravel)** — منصة تعليمية: https://elmna-laravel.onrender.com/
+  - **قناتي على يوتيوب:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **كورس بايثون بالعربي**: https://rebrand.ly/python-course-ar
 - **مقالي**: كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96 بالمئة: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
 - **ورقتي العلمية**: تحليل مقارن لخوارزميات تعلّم الآلة للكشف عن مواقع التصيّد (ملف Word): https://github.com/eln2mac-has/phishing-detection-ml/blob/main/Phishing_Detection_Paper.docx
