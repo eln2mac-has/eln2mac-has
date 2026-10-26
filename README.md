@@ -15,9 +15,7 @@
 - **قناتي على يوتيوب:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **كورس بايثون بالعربي**: https://rebrand.ly/python-course-ar
 - **مقالي**: كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96 بالمئة: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
-- **ورقتي العلمية:** تحليل مقارن لخوارزميات تعلّم الآلة للكشف عن مواقع التصيّد: https://doi.org/10.5281/zenodo.23620420
----
-
+  - **ورقتي العلمية:** تحليل مقارن لخوارزميات تعلّم الآلة للكشف عن مواقع التصيّد: https://doi.org/10.5281/zenodo.23173759
 🎓 University Professor | 🔬 Engineer & Inventor (65 Patents) | 💻 Software Developer (12 Apps & Systems) | 📚 Author of 9 Programming Books
 
 **Organizations & Roles:**
@@ -33,4 +31,4 @@
 - **Elmna (Laravel)** — Educational platform: https://elmna-laravel.onrender.com/
 - **Python Course (Arabic)**: https://rebrand.ly/python-course-ar
 - **My YouTube Channel:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
-- **My Research Paper:** A Comparative Analysis of Machine Learning Algorithms for Phishing Website Detection: https://doi.org/10.5281/zenodo.23620420
+- **My Research Paper:** Comparative Analysis of Machine Learning Algorithms for Phishing Website Detection: https://doi.org/10.5281/zenodo.23173759
