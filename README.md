@@ -15,7 +15,7 @@
 - **قناتي على يوتيوب:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **كورس بايثون بالعربي:** https://rebrand.ly/python-course-ar
 - **مقالي:** كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96 بالمئة: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
-- **ورقتي العلمية:** تحليل مقارن لخوارزميات تعلّم الآلة للكشف عن مواقع التصيّد: https://doi.org/10.5281/zenodo.23173759
+- **ورقتي العلمية:** تحليل مقارن لخوارزميات تعلّم الآلة للكشف عن مواقع التصيّد: https://doi.org/10.5281/zenodo.23515452
 - **سجل البراءات وحقوق النشر والكتب (سجل عام جزئي، يُحدَّث):** https://doi.org/10.5281/zenodo.23620420
 
 ---
@@ -35,5 +35,5 @@
 - **My YouTube Channel:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **Python Course (Arabic):** https://rebrand.ly/python-course-ar
 - **My Article:** How I Taught a Computer to Spot Fake Websites with 96% Accuracy: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
-- **My Research Paper:** Comparative Analysis of Machine Learning Algorithms for Phishing Website Detection: https://doi.org/10.5281/zenodo.23173759
+- **My Research Paper:** Comparative Analysis of Machine Learning Algorithms for Phishing Website Detection: https://doi.org/10.5281/zenodo.23515452
 - **Register of Patents, Copyright Registrations and Books (partial public register, updated as records are added):** https://doi.org/10.5281/zenodo.23620420
