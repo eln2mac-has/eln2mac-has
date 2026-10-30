@@ -13,6 +13,8 @@
 - **صحتي (Sehhati)** — تطبيق مجاني يكشف برومات البوتاسيوم في الخبز والدقيق: https://sehhati-sd.netlify.app
 - **Elmna (Laravel)** — منصة تعليمية: https://elmna-laravel.onrender.com/
 - **موقع مركز MACKENZIE للحوسبة والتدريب والاستشارات:** https://mackenzie-center.netlify.app
+- **صفحة المركز على لينكدإن:** https://www.linkedin.com/company/mackenzie-center-for-computing-training-consulting/
+- **صفحة المركز على فيسبوك:** https://www.facebook.com/profile.php?id=61595707965016
 - **قناة المنظمة العالمية للمخترعين:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **كورس بايثون بالعربي:** https://rebrand.ly/python-course-ar
 - **مقالي:** كيف علّمت الحاسوب كشف المواقع المزيفة بدقة 96 بالمئة: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
@@ -34,6 +36,8 @@
 - **Sehhati** — Free app to check bread and flour for potassium bromate (E924): https://sehhati-sd.netlify.app
 - **Elmna (Laravel)** — Educational platform: https://elmna-laravel.onrender.com/
 - **MACKENZIE Center for Computing, Training & Consulting website:** https://mackenzie-center.netlify.app
+- **MACKENZIE Center on LinkedIn:** https://www.linkedin.com/company/mackenzie-center-for-computing-training-consulting/
+- **MACKENZIE Center on Facebook:** https://www.facebook.com/profile.php?id=61595707965016
 - **World Inventors Organization Channel:** https://www.youtube.com/channel/UC5uDMM4nJqqoc55jnHk2LVw
 - **Python Course (Arabic):** https://rebrand.ly/python-course-ar
 - **My Article:** How I Taught a Computer to Spot Fake Websites with 96% Accuracy: https://dev.to/eln2mac/i-taught-a-computer-to-spot-fake-websites-with-96-accuracy-3ikh
